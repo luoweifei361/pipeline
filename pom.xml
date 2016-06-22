@@ -44,7 +44,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <start-class>com.kuailework.PipleLineMain</start-class>
+        <start-class>com.kuailework.Main</start-class>
         <java.version>1.7</java.version>
     </properties>
 
