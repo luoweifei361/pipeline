@@ -10,7 +10,6 @@ package com.kuailework;
 @ImportResource("classpath:beans.xml")
 @PropertySources(@PropertySource({ "classpath:application.properties" }))
 @Configuration
-@ComponentScan
 @EnableAutoConfiguration
 public class Main {
     public static void main(String[] args){
